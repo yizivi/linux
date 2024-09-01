@@ -1,3 +1,7 @@
+https://linuxmirrors.cn/     
+
+https://linuxmirrors.cn/        
+
 https://mirrors.ustc.edu.cn/ 
 
 https://mirrors.tuna.tsinghua.edu.cn/help/centos/ 
