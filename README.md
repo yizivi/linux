@@ -1,5 +1,3 @@
-https://linuxmirrors.cn/     
-
 https://linuxmirrors.cn/        
 
 https://mirrors.ustc.edu.cn/ 
